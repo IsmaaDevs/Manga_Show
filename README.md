@@ -1,4 +1,4 @@
-# MANGA SHOW
+# ⛩️ MANGA SHOW ⛩️
 
 **MANGA SHOW** est une application web permettant de gérer une liste de mangas. Vous pouvez ajouter de nouveaux mangas, voir la liste actuelle et supprimer ceux que vous ne voulez plus voir.
 
@@ -71,7 +71,7 @@ manga-show/
 │   │
 │   ├── App.js
 │   └── index.js
-    └── index.css
+│   └── index.css
 │
 ├── .eslintrc.cjs
 ├── .gitignore
