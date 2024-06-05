@@ -1,0 +1,52 @@
+{
+  "mangas": [
+    {
+      "title": "Jujutsu Kaisen",
+      "posterUrl": "https://m.media-amazon.com/images/I/71Nel1871TL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Yūji Itadori, un lycéen ordinaire, découvre le monde des malédictions et rejoint l'école des exorcistes pour combattre des créatures surnaturelles.",
+      "releaseDate": "03/10/2024"
+    },
+    {
+      "title": "Naruto Shipuden",
+      "posterUrl": "https://m.media-amazon.com/images/I/81dwTCF6+XL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Naruto Uzumaki revient après deux ans d'entraînement intense pour sauver son ami Sasuke et protéger le monde ninja de nouvelles menaces.",
+      "releaseDate": "15/02/2007"
+    },
+    {
+      "title": "Death Note",
+      "posterUrl": "https://m.media-amazon.com/images/I/71D8+MxcYQL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Light Yagami, un étudiant brillant, découvre un cahier mystérieux qui lui permet de tuer n'importe qui en écrivant simplement leur nom.",
+      "releaseDate": "04/10/2006"
+    },
+    {
+      "title": "One Piece",
+      "posterUrl": "https://m.media-amazon.com/images/I/814suguCXIL.jpg",
+      "description": "Monkey D. Luffy et son équipage de pirates partent à la recherche du légendaire trésor One Piece pour devenir le Roi des Pirates.",
+      "releaseDate": "20/10/1999"
+    },
+    {
+      "title": "Bleach",
+      "posterUrl": "https://m.media-amazon.com/images/I/81UCz9zmNuL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Ichigo Kurosaki, un lycéen capable de voir les fantômes, devient un Shinigami pour protéger les vivants des esprits malveillants.",
+      "releaseDate": "5/10/2004"
+    },
+    {
+      "title": "D Gray Man",
+      "posterUrl": "https://m.media-amazon.com/images/I/715E3vnZYFL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Allen Walker, un exorciste, combat les Akuma créés par le Comte Millénaire pour protéger l'humanité.",
+      "releaseDate": "31/05/2004"
+    },
+    {
+      "title": "Monster",
+      "posterUrl": "https://m.media-amazon.com/images/I/61LDbOs6Z5L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Le Dr. Kenzo Tenma, un neurochirurgien, se retrouve dans une chasse à l'homme contre un patient devenu un tueur en série impitoyable.",
+      "releaseDate": "15/12/1994"
+    },
+    {
+      "title": "Chainsaw Man",
+      "posterUrl": "https://m.media-amazon.com/images/I/81hcn99lebL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Denji, un jeune homme endetté, fusionne avec son chien-démon Pochita pour devenir Chainsaw Man, un chasseur de démons avec une tronçonneuse.",
+      "releaseDate": "12/10/2022"
+    }
+  ]
+}
