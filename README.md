@@ -13,7 +13,7 @@
 1. **Cloner le Dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/manga-show.git
+   git clone
    cd manga-show
    ```
 
@@ -30,7 +30,7 @@
    ```
 
 4. **Ouvrir dans le Navigateur** :
-   Ouvrez [http://localhost:3000](http://localhost:3000) pour voir l'application en action.
+   Ouvrez votre localhost pour voir l'application en action.
 
 ## Utilisation
 
@@ -55,47 +55,39 @@
 ```plaintext
 manga-show/
 │
+├── node_modules/
+│
 ├── public/
-│   └── index.html
+│   └── logo.png
 │
 ├── src/
 │   ├── components/
+│   │   ├── MangaCard.js
 │   │   ├── MangaInput.js
-│   │   ├── MangaList.js
-│   │   └── MangaCard.js
+│   │   └── MangaList.js
 │   │
 │   ├── database/
 │   │   └── bdd.json
 │   │
 │   ├── App.js
 │   └── index.js
+    └── index.css
 │
+├── .eslintrc.cjs
 ├── .gitignore
+├── index.html
+├── package-lock.json
 ├── package.json
 ├── README.md
-└── yarn.lock
+└── vite.config.js
 ```
 
 ## Technologies Utilisées
 
-- **React** : Bibliothèque JavaScript pour construire des interfaces utilisateur.
-- **Local Storage** : Pour persister les données des mangas même après un rafraîchissement de la page.
+- **React** : Bibliothèque JavaScript.
+- **Local Storage** : Pour garder les données des mangas même après un rafraîchissement de la page.
 - **HTML/CSS** : Pour la structure et le style de l'application.
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Pour contribuer :
-
-1. **Fork** le projet.
-2. Créez une nouvelle branche (`git checkout -b feature/ma-nouvelle-fonctionnalite`).
-3. Committez vos changements (`git commit -m 'Ajouter une nouvelle fonctionnalité'`).
-4. Poussez la branche (`git push origin feature/ma-nouvelle-fonctionnalite`).
-5. Ouvrez une **Pull Request**.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 ---
 
-Merci d'utiliser **MANGA SHOW** ! Si vous avez des questions ou des suggestions, n'hésitez pas à les partager. Bon visionnage de mangas ! 🎉📚✨
+Voila **MANGA SHOW** ! Si vous avez des questions ou des suggestions, n'hésitez pas à les partager. 🎉📚✨
